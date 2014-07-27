@@ -25,17 +25,23 @@ Slide to left
 All you have to do is add data-next="1" data-current="0" if you want to slide to the left.
 The numbers in the quotes are the page number you are interacting with, this number is given to a div from its id="page#". 
 
-In data-current you put the page number of 
+In data-current you put the page number of the div currently being displayed
+
+In data-next you put the page number of the div you want to move to
 
 Slide to Right
 ----------------
 all you have to do is add data-back="1" data-current="0" if you want to slide to the right
 
+In data-current you put the page number of the div currently being displayed
+
+In data-back you put the page number of the div you want to move to
+
 
 Optional Functions
 -------------------
 
-Starting at a page number that is not 0.
+###Starting at a page number that is not 0.
 
 Go to line #34 of the div-slider.js, at var startAtPage = 0; 
 change the 0 with the page number you want to start at.

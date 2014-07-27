@@ -1,7 +1,7 @@
-Jquery-Div-Slider
+Jumbotron Slider
 =================
 
-I needed a way to have the user acomplish things on a div and as soon as they were done, the div would slide off and a new one would appear. and thus the Div Slider was born.
+I needed a way to have the user acomplish things on a div and as soon as they were done, the div would slide off and a new one would appear. and thus the Jumbotron Slider was born.
 
 
 ##How to Use

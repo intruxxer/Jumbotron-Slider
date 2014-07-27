@@ -3,6 +3,7 @@ Jumbotron Slider
 
 I needed a way to have the user acomplish things on a div and as soon as they were done, the div would slide off and a new one would appear. and thus the Jumbotron Slider was born.
 
+Try It Here : http://jsfiddle.net/ksparakis/wgwbq/2/embedded/result/
 
 ##How to Use
 ----------------

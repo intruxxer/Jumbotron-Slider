@@ -41,7 +41,7 @@ In data-back you put the page number of the div you want to move to
 Optional Functions
 -------------------
 
-###Starting at a page number that is not 0.
+####Starting at a page number that is not 0.
 
 Go to line #34 of the div-slider.js, at var startAtPage = 0; 
 change the 0 with the page number you want to start at.
